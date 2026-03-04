@@ -1,0 +1,5 @@
+{
+  "name": "Life Energy Calculator",
+  "description": "A cute app to calculate how much 'life energy' (working time) an expense costs based on your salary.",
+  "requestFramePermissions": []
+}
